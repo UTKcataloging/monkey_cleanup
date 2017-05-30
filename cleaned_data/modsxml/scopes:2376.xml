@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Message typed on envelope states evolution theory is incompatible with Biblical charge for man to \exercise... dominion over\ natural world.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Message typed on envelope states evolution theory is incompatible with Biblical charge for man to exercise... dominion over natural world.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,7 +37,7 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>Envelope from James Russell Clark to &quot;The Associated Press and International News Service, c/o Judge John T. Raulston&quot;</title>
+      <title>Envelope from James Russell Clark to "The Associated Press and International News Service, c/o Judge John T. Raulston"</title>
    </titleInfo>
    <subject>
       <topic>Bible and evolution</topic>

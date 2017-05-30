@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Hanging card contains text and introduction to poem \Behold the Flag\ and brief biography of author Ignatius I. Murphy</abstract>
+   <abstract>Hanging card contains text and introduction to poem Behold the Flag and brief biography of author Ignatius I. Murphy</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,7 +39,8 @@
    <titleInfo>
       <title>Behold the Flag</title>
    </titleInfo>
-   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2005083458">
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2005083458">
       <namePart>Murphy, Ignatius I. (Ignatius Ingoldsby)</namePart>
       <role>
          <roleTerm>Author</roleTerm>

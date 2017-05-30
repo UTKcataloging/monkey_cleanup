@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Explains that telegrams have not reached Bryan, but he would be welcomed on the prosecution; requests recipient contact him.\n</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Explains that telegrams have not reached Bryan, but he would be welcomed on the prosecution; requests recipient contact him.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>

@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Address from statesman praises Bryan&apos;s honesty, morality, Christianity. </abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Address from statesman praises Bryan's honesty, morality, Christianity. </abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,10 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>Address of William G. McAdoo at Bryan&apos;s Memorial Services</title>
+      <title>Address of William G. McAdoo at Bryan's Memorial Services</title>
    </titleInfo>
    <subject>
-      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80044871 ">
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80044871 ">
          <namePart>Bryan, William Jennings, 1860-1925</namePart>
       </name>
    </subject>

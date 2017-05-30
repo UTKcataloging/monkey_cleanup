@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Handwritten list of arguments to counter the defense&apos;s pro-evolution arguments</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Handwritten list of arguments to counter the defense's pro-evolution arguments</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,11 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;1. Mendel&apos;s Law of Heredity disproves evolution...&quot;</title>
+      <title>"1. Mendel's Law of Heredity disproves evolution..."</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">1. Mendel&apos;s Law of Heredity disproves Evolution.\n\n2. If the rocks show the evidence of evolution why do they not also contain a complete chain? Why the missing links?\n3. Evolution not modern theory. originated in Greece by Alexander [&amp;] [Thales?] six centuries before Christ. They Held all things come from water. (Here cope pages 3 &quot;the [Last?] word on Evolution&quot; between [illegible])\n4 Nietzche&apos;s &quot;Survival of the Fittest&quot; in Germany and what it did for Germany.\n5 - [Apeman?] or Pithecanthropus a forgery. Pages 14 [&amp;] 15 &quot;Last word in Evolution&quot;. Pilldown Man\n6 - Can&apos;t teach Bible in [our?] Schools [Why] teach Evolution.\n6 Survival of Fittest, or natural selection carried to extreme means that we do no good by saving the weak or by vaccination etc.\n7 The jury is not to [stricken: judge] pass upon the wisdom of the law, that has been done by the legislature. It is your duty to enforce the law.\n8 - If man did not evolve from the [lower?] animals but came up from the primate stock as the defense claims, then there is no evidence whatever in the rocks of man&apos;s evolution.\n9 - [Ashley?] Fossil [Ruls?] in L.C. 100 miles in diameter [&amp;] 10 ft deep. Has been mined for fertilizer [since?] 1844. No evidence of evolution [ever?] found there.</note>
+   <note displayLabel="Transcription">1. Mendel's Law of Heredity disproves Evolution.2. If the rocks show the evidence of evolution why do they not also contain a complete chain? Why the missing links?3. Evolution not modern theory. originated in Greece by Alexander [&amp;] [Thales?] six centuries before Christ. They Held all things come from water. (Here cope pages 3 "the [Last?] word on Evolution" between [illegible])4 Nietzche's "Survival of the Fittest" in Germany and what it did for Germany.5 - [Apeman?] or Pithecanthropus a forgery. Pages 14 [&amp;] 15 "Last word in Evolution". Pilldown Man6 - Can't teach Bible in [our?] Schools [Why] teach Evolution.6 Survival of Fittest, or natural selection carried to extreme means that we do no good by saving the weak or by vaccination etc.7 The jury is not to [stricken: judge] pass upon the wisdom of the law, that has been done by the legislature. It is your duty to enforce the law.8 - If man did not evolve from the [lower?] animals but came up from the primate stock as the defense claims, then there is no evidence whatever in the rocks of man's evolution.9 - [Ashley?] Fossil [Ruls?] in L.C. 100 miles in diameter [&amp;] 10 ft deep. Has been mined for fertilizer [since?] 1844. No evidence of evolution [ever?] found there.</note>
 </mods>

@@ -1,88 +1,93 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <abstract>Typewritten reprint of letter from Presbyterian ministers decrying secular articles from the University-affiliated &quot;Journal of Social Forces&quot;</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <abstract>Typewritten reprint of letter from Presbyterian ministers decrying secular articles from the University-affiliated "Journal of Social Forces"</abstract>
   <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Sue K. Hicks Papers</title>
-    </titleInfo>
-    <identifier>MPA.0136</identifier>
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
   </relatedItem>
   <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-    </titleInfo>
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
   </relatedItem>
   <identifier type="filename">0012_000416_000124</identifier>
   <language>
-    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
   </language>
   <recordInfo>
-    <recordIdentifier>record_0012_000416_000124</recordIdentifier>
-    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordIdentifier>record_0012_000416_000124</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
   </recordInfo>
   <location>
-    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-    <holdingSimple>
-      <copyInformation>
-        <shelfLocator>Box 5, Folder 5</shelfLocator>
-      </copyInformation>
-    </holdingSimple>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 5</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
   </location>
   <titleInfo>
-    <title>An Open Letter To the President and Trustees of the University of North Carolina</title>
-    <subTitle></subTitle>
+      <title>An Open Letter To the President and Trustees of the University of North Carolina</title>
+      <subTitle/>
   </titleInfo>
   <subject>
-    <topic>Bible</topic>
-    <geographic></geographic>
-    <temporal></temporal>
-    <hierarchicalGeographic>
-      <continent></continent>
-      <country></country>
-      <province></province>
-      <region></region>
-      <county></county>
-      <city></city>
-      <citySection></citySection>
-    </hierarchicalGeographic>
-    <cartographics>
-      <coordinates></coordinates>
-    </cartographics>
+      <topic>Bible</topic>
+      <geographic/>
+      <temporal/>
+      <hierarchicalGeographic>
+         <continent/>
+         <country/>
+         <province/>
+         <region/>
+         <county/>
+         <city/>
+         <citySection/>
+      </hierarchicalGeographic>
+      <cartographics>
+         <coordinates/>
+      </cartographics>
   </subject>
   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-  <note displayLabel="Transcription">Handwritten note, &quot;Published in Charlotte Obsvr. 2-17-25</note>
+  <note displayLabel="Transcription">Handwritten note, "Published in Charlotte Obsvr. 2-17-25</note>
   <name type="personal">
-    <namePart></namePart>
-    <role>
-      <roleTerm authority="marcrelator" type="text"></roleTerm>
-    </role>
+      <namePart/>
+      <role>
+         <roleTerm authority="marcrelator" type="text"/>
+      </role>
   </name>
   <typeOfResource>text</typeOfResource>
-  <genre authority="marcgt"></genre>
-  <tableOfContents></tableOfContents>
+  <genre authority="marcgt"/>
+  <tableOfContents/>
   <originInfo>
-    <dateIssued></dateIssued>
-    <copyrightDate></copyrightDate>
-    <issuance>monographic</issuance>
-    <edition></edition>
-    <publisher></publisher>
-    <place>
-      <placeTerm authority="marccountry"></placeTerm>
-    </place>
-    <place>
-      <placeTerm type="text"></placeTerm>
-    </place>
+      <dateIssued/>
+      <copyrightDate/>
+      <issuance>monographic</issuance>
+      <edition/>
+      <publisher/>
+      <place>
+         <placeTerm authority="marccountry"/>
+      </place>
+      <place>
+         <placeTerm type="text"/>
+      </place>
   </originInfo>
   <physicalDescription>
-    <form authority="marcform"></form>
-    <extent></extent>
+      <form authority="marcform"/>
+      <extent/>
   </physicalDescription>
-  <note type="statement of responsibility"></note>
-  <note></note>
-  <classification authority="lcc"></classification>
-  <classification authority="ddc" edition="21"></classification>
+  <note type="statement of responsibility"/>
+  <note/>
+  <classification authority="lcc"/>
+  <classification authority="ddc" edition="21"/>
 </mods>

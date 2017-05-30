@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>\Rejoyce[s]\ that Bryan will be trying case; discusses news clippings; states will pray for Bryan.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Rejoyce[s] that Bryan will be trying case; discusses news clippings; states will pray for Bryan.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">P.O.Bx 1697 B&apos;ham, Ala., June 7th 1925.My dear Sir, Friend and Brother Bryan:I rejoyce that you are in shape to take up the battle. I shall continue to pray for you. Will not bother you, but I thot that perhaps you might have time to look over the enclosed, before the start. G.B.F. Stovall (see clipping), is the guy whom the News, let &quot;challenge&quot; you to-debate (sic) while you were here, giving your great lecture in Dr. Stuart&apos;s 1st M. E. Church, South. This Stovall - will show up there and we&apos;ll get &quot;Evolution=hash,&quot; in the News, I will not waste time on it. He is jealous at you and News hate you with a perfect hate. You&apos;ll see a poor insicknificant dried up stick. He&apos;s a luny - and fit for an - sanatorium. You can see he is not satisfied with himself nor anybody. You&apos;&apos;ll see him. God bless you, and take care of you! Yours truly in The Lord. JP Holm</note>
+   <note displayLabel="Transcription">P.O.Bx 1697 B'ham, Ala., June 7th 1925.My dear Sir, Friend and Brother Bryan:I rejoyce that you are in shape to take up the battle. I shall continue to pray for you. Will not bother you, but I thot that perhaps you might have time to look over the enclosed, before the start. G.B.F. Stovall (see clipping), is the guy whom the News, let "challenge" you to-debate (sic) while you were here, giving your great lecture in Dr. Stuart's 1st M. E. Church, South. This Stovall - will show up there and we'll get "Evolution=hash," in the News, I will not waste time on it. He is jealous at you and News hate you with a perfect hate. You'll see a poor insicknificant dried up stick. He's a luny - and fit for an - sanatorium. You can see he is not satisfied with himself nor anybody. You''ll see him. God bless you, and take care of you! Yours truly in The Lord. JP Holm</note>
 </mods>

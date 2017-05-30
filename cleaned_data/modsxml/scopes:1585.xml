@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Empty envelope mailed from France.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -33,7 +37,7 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>Envelope to &quot;Monsieur Bryan, fils de William Jennings Bryan,&quot; from J. Lion.</title>
+      <title>Envelope to "Monsieur Bryan, fils de William Jennings Bryan," from J. Lion.</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>

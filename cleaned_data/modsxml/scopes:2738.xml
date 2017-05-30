@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xmlns="http://www.loc.gov/mods/v3"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Poem on card describes natural world, \some call it Evolution/And others call it God.\</abstract>
+   <abstract>Poem on card describes natural world, some call it Evolution/And others call it God.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,7 +39,8 @@
    <titleInfo>
       <title>Each In His Own Tongue</title>
    </titleInfo>
-   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79116229">
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n79116229">
       <namePart>Carruth, William Herbert, 1859-1924</namePart>
       <role>
          <roleTerm>Author</roleTerm>

@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -38,5 +42,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription"> \nII. Evolution should not be taught because the people of Tennessee do not want it taught. 1. Right of people [to?] control. 2. [Cherish?] Literature [&amp;?] science. (a) Meaning of. 3. Leeper [vs?]. State.4. Sovereign [illegible] III. Evolution should not be taught because it undermines Christianity. 1. U. S. a Christian Nation 2. Pagan philosophy. (a) History 3. Theological question (a) Theologians differ (b) Religion or irreligion not to be taught.  IV. Evolution should not be taught in the school, because, (I) it violates our state Constitution.1. Sec 3, art. I.2 Many students under age of consent, and parents object.3. Scopes asking to impose religious beliefs upon others.\n</note>
+   <note displayLabel="Transcription"> II. Evolution should not be taught because the people of Tennessee do not want it taught. 1. Right of people [to?] control. 2. [Cherish?] Literature [&amp;?] science. (a) Meaning of. 3. Leeper [vs?]. State.4. Sovereign [illegible] III. Evolution should not be taught because it undermines Christianity. 1. U. S. a Christian Nation 2. Pagan philosophy. (a) History 3. Theological question (a) Theologians differ (b) Religion or irreligion not to be taught.  IV. Evolution should not be taught in the school, because, (I) it violates our state Constitution.1. Sec 3, art. I.2 Many students under age of consent, and parents object.3. Scopes asking to impose religious beliefs upon others.</note>
 </mods>

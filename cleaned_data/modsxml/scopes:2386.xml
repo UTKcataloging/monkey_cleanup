@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Letter pastes newspaper clipping describing Sue, discusses upcoming visit to Dayton, offers to drive Sue to Chattanooga if schedules align.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">After reading the above I can only offer you my deepest apologies for asking you to ride in a dusty car.It is most gratifying though to see our [illegible] in a fitting role.Am coming up Monday and expecting some real excitement. See that youall don&apos;t disappoint me so I will have some real first class data to take back to New York.If you are coming to Chattanooga that night, or [illegible] afternoon, glad to drive you down. Expect to be at the Mineral Springs Hotel. Sincerely, Madalin P. Johnson.</note>
+   <note displayLabel="Transcription">After reading the above I can only offer you my deepest apologies for asking you to ride in a dusty car.It is most gratifying though to see our [illegible] in a fitting role.Am coming up Monday and expecting some real excitement. See that youall don't disappoint me so I will have some real first class data to take back to New York.If you are coming to Chattanooga that night, or [illegible] afternoon, glad to drive you down. Expect to be at the Mineral Springs Hotel. Sincerely, Madalin P. Johnson.</note>
 </mods>

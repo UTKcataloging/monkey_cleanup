@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Typed page describes some of the key figures in the Scopes trial.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -33,11 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;Stewart, himself an athletic fighting type...&quot;</title>
+      <title>"Stewart, himself an athletic fighting type..."</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
-   <note>This is the second of a two-page document. The complete document, \Dayton Contrasts,\ is found in Box 5, Folder 14.</note>
+   <note>This is the second of a two-page document. The complete document, Dayton Contrasts, is found in Box 5, Folder 14.</note>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
 </mods>

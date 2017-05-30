@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Inquires as to time of trial.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">Prosecuting Attorney,Dayton, Tenn.Dear Sir,Will you be kind enough to advise me as to about the the time of the trial of J.T. Scopes of your city.Thanks you in advance I amVery Resp.G.B. Battelle.5/21 &apos;25P.O.B. 3246St. Petersburg, Fla.</note>
+   <note displayLabel="Transcription">Prosecuting Attorney,Dayton, Tenn.Dear Sir,Will you be kind enough to advise me as to about the the time of the trial of J.T. Scopes of your city.Thanks you in advance I amVery Resp.G.B. Battelle.5/21 '25P.O.B. 3246St. Petersburg, Fla.</note>
 </mods>

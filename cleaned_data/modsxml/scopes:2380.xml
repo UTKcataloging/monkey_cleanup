@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Pamphlet containing proclamations by Lewis Levi Marshall Johnson; reverse side \Charge of Crime against Officials of the United State&apos;s Government.\</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Pamphlet containing proclamations by Lewis Levi Marshall Johnson; reverse side Charge of Crime against Officials of the United State's Government.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,7 +37,7 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;A PROCLAMATION OF PEACE TO ALL MANKIND&quot;</title>
+      <title>"A PROCLAMATION OF PEACE TO ALL MANKIND"</title>
    </titleInfo>
    <subject>
       <topic>Nationalism</topic>

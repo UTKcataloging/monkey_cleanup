@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Letter discusses scope of the trial and witnesses.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -38,6 +42,6 @@
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
-   <note>Duplicate of letter in same folder. This one is on Hicks &amp; Hicks stationery, and has the word &apos;copy&apos; written in the margin in pencil.</note>
+   <note>Duplicate of letter in same folder. This one is on Hicks &amp; Hicks stationery, and has the word 'copy' written in the margin in pencil.</note>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
 </mods>

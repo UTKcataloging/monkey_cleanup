@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Encloses criticism of \Well&apos;s Outline of History.\</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Encloses criticism of Well's Outline of History.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,5 +43,5 @@
       <topic>Bible and evolution</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">San Antonio Texas1930 W. Ashby Place June 26 - 25.Hon. Wm J. Bryan,Dayton, Tenn. My Dear Sir: I am enclosing herewith a copy of a criticism of &quot;Well&apos;s Outline of History&quot; written by myself, and published in two of our leading church periodicals. Also a brief review of a new work on geology I am sending this matter with the hope and prayer that it may be of some small service to you and your associates in the pending evolution trial. Praying that you may have Divine guidance, and truth and righteousness and may triumph over human conceit and error, I am,Yours Most Cordially,(Rev.) John G. Pollard.</note>
+   <note displayLabel="Transcription">San Antonio Texas1930 W. Ashby Place June 26 - 25.Hon. Wm J. Bryan,Dayton, Tenn. My Dear Sir: I am enclosing herewith a copy of a criticism of "Well's Outline of History" written by myself, and published in two of our leading church periodicals. Also a brief review of a new work on geology I am sending this matter with the hope and prayer that it may be of some small service to you and your associates in the pending evolution trial. Praying that you may have Divine guidance, and truth and righteousness and may triumph over human conceit and error, I am,Yours Most Cordially,(Rev.) John G. Pollard.</note>
 </mods>

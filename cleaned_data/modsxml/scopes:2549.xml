@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Typewritten manuscript by Earl L. Shaub sharply criticizes historical inaccuracy and implications of \Inherit the Wind\ film.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Typewritten manuscript by Earl L. Shaub sharply criticizes historical inaccuracy and implications of Inherit the Wind film.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,7 +37,7 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;I was among the invited guests who saw the preview...&quot;</title>
+      <title>"I was among the invited guests who saw the preview..."</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>

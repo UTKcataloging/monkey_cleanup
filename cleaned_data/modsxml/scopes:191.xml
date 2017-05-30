@@ -37,9 +37,10 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>\'Majorgraphs' From the Tennessee Evolution Trial\</title>
+      <title>'Majorgraphs' From the Tennessee Evolution Trial</title>
    </titleInfo>
-   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2009070081">
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2009070081">
       <namePart>Major, Henry, 1889-1948</namePart>
       <role>
          <roleTerm>Artist</roleTerm>

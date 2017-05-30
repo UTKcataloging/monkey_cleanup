@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Poem mourns William Jennings Bryan, handwritten outline on reverse of second page</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -36,11 +40,12 @@
       <title>The Death of the Commoner</title>
    </titleInfo>
    <subject>
-      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80044871 ">
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80044871 ">
          <namePart>Bryan, William Jennings, 1860-1925</namePart>
       </name>
    </subject>
    <note>Handwritten note on reverse of second page lists events.</note>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">C. W. [Hicks?] [illegible].M. [Jones?] [open meeting?].\nM. J.L. GodseyElected ChairmanS.K. Hicks Secretaery\nSpeech by Gen McKenzie.\nSpeech by Herbert Hicks\nspeech by Sue Hicks\nspeech by Rev Chas R. Jones\nspeech by Rev. -- noiseworthy\nResolution [illegible] by Mr. joe Benson authorizing [appointment?] of J.G. McKenzie etc [com?]. to carry out work.\nTom Stewart made [chairman?] of [that?] [committee?]</note>
+   <note displayLabel="Transcription">C. W. [Hicks?] [illegible].M. [Jones?] [open meeting?].M. J.L. GodseyElected ChairmanS.K. Hicks SecretaerySpeech by Gen McKenzie.Speech by Herbert Hicksspeech by Sue Hicksspeech by Rev Chas R. Jonesspeech by Rev. -- noiseworthyResolution [illegible] by Mr. joe Benson authorizing [appointment?] of J.G. McKenzie etc [com?]. to carry out work.Tom Stewart made [chairman?] of [that?] [committee?]</note>
 </mods>

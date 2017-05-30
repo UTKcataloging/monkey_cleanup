@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Handwritten note on two-sided \proclamation\ from \Lewis Levi Johnson Marshall, Absolute Ruler of the Entire World,\ against the Evolution law.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Handwritten note on two-sided proclamation from Lewis Levi Johnson Marshall, Absolute Ruler of the Entire World, against the Evolution law.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">[handwritten note]\nThe Tennessee law is a Violation of the constitution of the United States The State could dismiss the Teacher but no criminal action could legally be taken, signed Lewis Levi Johnson Marshall</note>
+   <note displayLabel="Transcription">[handwritten note]The Tennessee law is a Violation of the constitution of the United States The State could dismiss the Teacher but no criminal action could legally be taken, signed Lewis Levi Johnson Marshall</note>
 </mods>

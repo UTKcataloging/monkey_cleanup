@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Handwitten letter,  announces sending of articles pertaining to evolution and to Clarence Darrow, \an old infidel.\</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Handwitten letter,  announces sending of articles pertaining to evolution and to Clarence Darrow, an old infidel.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">June 1, 1925. Hon. S.K. Hicks,Dayton, Tennessee.Dear Sir: I am sending you under separate cover, a Copy of the Park City Daily News. of Bowling Green, with an article which I wrote some time ago on &quot;Bryan &amp; Darwin&quot;. Also a paper from Mt. Vernon, Mo., with a paragraph on Clarence Darrow. He is an old infidel, &amp; has defended scoundrels &amp; rakes of Chicago, until he has no more conscience than a mollusk &amp; considers all mankind on a common level. I hope you will let him know that he is not in the slums of Chicago, when he is in the pure air of Tennessee.[2]You have nothing to fear at his hands. In the paper I am sending you, I give the Bible origin of &quot;species&quot; which I hope may be of service to you. I am a Tennessean myself, &amp; am sorry that I cannot hope to hear the trial. With all good wishes, I am,Sincerely yours,J.M. Carter.</note>
+   <note displayLabel="Transcription">June 1, 1925. Hon. S.K. Hicks,Dayton, Tennessee.Dear Sir: I am sending you under separate cover, a Copy of the Park City Daily News. of Bowling Green, with an article which I wrote some time ago on "Bryan &amp; Darwin". Also a paper from Mt. Vernon, Mo., with a paragraph on Clarence Darrow. He is an old infidel, &amp; has defended scoundrels &amp; rakes of Chicago, until he has no more conscience than a mollusk &amp; considers all mankind on a common level. I hope you will let him know that he is not in the slums of Chicago, when he is in the pure air of Tennessee.[2]You have nothing to fear at his hands. In the paper I am sending you, I give the Bible origin of "species" which I hope may be of service to you. I am a Tennessean myself, &amp; am sorry that I cannot hope to hear the trial. With all good wishes, I am,Sincerely yours,J.M. Carter.</note>
 </mods>

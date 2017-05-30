@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Acknowledges letter of the 28th, discusses Bryan&apos;s burial plans, recommends Mr. Thompson be contacted in Coconut Grove.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Acknowledges letter of the 28th, discusses Bryan's burial plans, recommends Mr. Thompson be contacted in Coconut Grove.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,10 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>Letter from Hicks &amp; Hicks to &quot;J.F. Holm&quot;</title>
+      <title>Letter from Hicks &amp; Hicks to "J.F. Holm"</title>
    </titleInfo>
    <subject>
-      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80044871 ">
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80044871 ">
          <namePart>Bryan, William Jennings, 1860-1925</namePart>
       </name>
    </subject>

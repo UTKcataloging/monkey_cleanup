@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Invokes God to aid in victory numerous times, does not claim kin to the monkey.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">Talala, OklahomaJuly 2 - 1925:\nSpecial Prosecuting Attorney S.K. Hicks, Dayton, Tenn. regard to Scopes Case.I am with you to the finish. may God be with you. may God help you in Prosecuting Scopes. I say of men to the man a like Brother Hicks to hole up the Gospel truth of the Religian of Jesus Christ I believe the bible. I do not Claim any kin to the monkey.God says him Self that he did make man in his own Image.  and read this letter to Mr. White the Superintendent of Schools. I am glad that Mr. White is on the lords Side, as well as you, God be with you.I know that you will win the victory, thank God.your Brother in Christ Jesus.W.A. Randolph. Talala, Oklahoma</note>
+   <note displayLabel="Transcription">Talala, OklahomaJuly 2 - 1925:Special Prosecuting Attorney S.K. Hicks, Dayton, Tenn. regard to Scopes Case.I am with you to the finish. may God be with you. may God help you in Prosecuting Scopes. I say of men to the man a like Brother Hicks to hole up the Gospel truth of the Religian of Jesus Christ I believe the bible. I do not Claim any kin to the monkey.God says him Self that he did make man in his own Image.  and read this letter to Mr. White the Superintendent of Schools. I am glad that Mr. White is on the lords Side, as well as you, God be with you.I know that you will win the victory, thank God.your Brother in Christ Jesus.W.A. Randolph. Talala, Oklahoma</note>
 </mods>

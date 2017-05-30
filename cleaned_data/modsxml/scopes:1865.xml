@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Pamphlet: \Abstract of address delivered by William Jennings Bryan at Bethany Presbyterian Church, Philadelphia, March 17, 1925.\</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Pamphlet: Abstract of address delivered by William Jennings Bryan at Bethany Presbyterian Church, Philadelphia, March 17, 1925.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,11 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;They Have Taken Away My Lord&quot;</title>
+      <title>"They Have Taken Away My Lord"</title>
    </titleInfo>
    <subject>
       <topic>Bible</topic>
    </subject>
-   <note>Handwritten inscription: \Presented to H.E. Hicks by W.J. Bryan at Nashville, Tennessee, June 5 1925.\</note>
+   <note>Handwritten inscription: Presented to H.E. Hicks by W.J. Bryan at Nashville, Tennessee, June 5 1925.</note>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
 </mods>

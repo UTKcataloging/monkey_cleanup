@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Typewritten notes listing citations on W.B. Marr&apos;s stationery; note added at end in pencil</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Typewritten notes listing citations on W.B. Marr's stationery; note added at end in pencil</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,7 +37,7 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;Cases of State of Tennessee vs. J. T. Scopes&quot;</title>
+      <title>"Cases of State of Tennessee vs. J. T. Scopes"</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>

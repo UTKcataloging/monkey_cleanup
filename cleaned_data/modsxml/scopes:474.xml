@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Handwritten quotes and citations on states&apos; authority.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Handwritten quotes and citations on states' authority.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -33,12 +37,12 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;Hamilton in NY Convention&quot;</title>
+      <title>"Hamilton in NY Convention"</title>
    </titleInfo>
    <subject>
-      <topic>States&apos; rights (American politics)</topic>
+      <topic>States' rights (American politics)</topic>
    </subject>
    <note>Written on the reverse of The National Reform Association stationery.</note>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">Hamilton in N.Y. Convention:&quot;The States have certain independent powers in which their laws are supreme; -for example, in making and executing laws concerning the punishment of certain crimes - such as murder, theft, &amp;c. - the State cannot be controlled&quot;.(I Elliott&apos;s Debates, 321.)\nSenator Robt J. Walker, in Senate, June 21, 1842&quot;An exclusive power in one gov-ernment to pass the law, define the crime, and affix the punishment, and yet an exclusive or concurrent power in another government to exe-cute the law and affix the punish-ment, is a solecism not to be found in the Constitution.&quot;\nUnited States Supreme Court said:&quot;The uncontrollable exercise of criminal jurisdiction is most se-curely confided to the State tribunals.&quot;The Courts of the United States are vested with no authority to scrutinize into the proceedings of the State Courts in criminal cases.&quot;(I Wheaton, U.S. 377.)\nAgain:&quot;All those powers which relate to merely municipal legislation, or what may, perhaps, more properly be called internal police, are not thus sur-rendered (to the Federal government) or restrained (by the Constitution); and that, consequently, in relation to these, the authority of a State is complete, unqualified, and Exclusive.&quot;(11 Peters U.S. P. 102 &amp;c)\nLikewise in the same case (11 Peters):&quot;To illustrate, no one will deny that a State has a right to punish any individual found within its jurisdiction, who shall have com-mitted an offence within its juris-diction, against its criminal laws.&quot;\nIn Pennsylvania (Commonwealth vs. Cobbett) (3 Dallas, 467) Cobbett&apos;s counsel tried to remove the case into the Federal Court, and the Court said:&quot;Neither the Constitution nor the Congress ever contemplated that any Court under the United States should have cognizance of anything savoring of criminality against a State. x x That yielding to the prayer of the prisoner would be highly inconvenient in itself, and injurious in the precedent, and that cognizance of it would not be accepted by the Circuit Court, if sent to them; for even consent cannot confer jurisdiction.&quot;</note>
+   <note displayLabel="Transcription">Hamilton in N.Y. Convention:"The States have certain independent powers in which their laws are supreme; -for example, in making and executing laws concerning the punishment of certain crimes - such as murder, theft, &amp;c. - the State cannot be controlled".(I Elliott's Debates, 321.)Senator Robt J. Walker, in Senate, June 21, 1842"An exclusive power in one gov-ernment to pass the law, define the crime, and affix the punishment, and yet an exclusive or concurrent power in another government to exe-cute the law and affix the punish-ment, is a solecism not to be found in the Constitution."United States Supreme Court said:"The uncontrollable exercise of criminal jurisdiction is most se-curely confided to the State tribunals."The Courts of the United States are vested with no authority to scrutinize into the proceedings of the State Courts in criminal cases."(I Wheaton, U.S. 377.)Again:"All those powers which relate to merely municipal legislation, or what may, perhaps, more properly be called internal police, are not thus sur-rendered (to the Federal government) or restrained (by the Constitution); and that, consequently, in relation to these, the authority of a State is complete, unqualified, and Exclusive."(11 Peters U.S. P. 102 &amp;c)Likewise in the same case (11 Peters):"To illustrate, no one will deny that a State has a right to punish any individual found within its jurisdiction, who shall have com-mitted an offence within its juris-diction, against its criminal laws."In Pennsylvania (Commonwealth vs. Cobbett) (3 Dallas, 467) Cobbett's counsel tried to remove the case into the Federal Court, and the Court said:"Neither the Constitution nor the Congress ever contemplated that any Court under the United States should have cognizance of anything savoring of criminality against a State. x x That yielding to the prayer of the prisoner would be highly inconvenient in itself, and injurious in the precedent, and that cognizance of it would not be accepted by the Circuit Court, if sent to them; for even consent cannot confer jurisdiction."</note>
 </mods>

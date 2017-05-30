@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Inquires whether Bryan received his letter sent during the trial, congratulates on victory.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -33,11 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>Letter from J.P. Holm to &quot;Dear Friends&quot;</title>
+      <title>Letter from J.P. Holm to "Dear Friends"</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">Bx 1697, B&apos;ham, Ala., July 28th 1925. Dear Friends:About 10 days ago I sent a letter to Bro. Bryan enclosed a clipping from the &quot;S.E. Chr. Advocate&quot; and copy of letter sent the editor, stopping my paper, and criticizing him for assailing so unjustly Mr. Bryan. Perhaps Bro. Bryan didn&apos;t get around to answer it and got it in among his volumious mail. {(I will answer it.)}However if you know about it would like to know if he got around to answer it. If not, kindly hand this to our mutual friend Br. Thompson. It certainly was a wonderful victory for the Bible, Christianity and, all to the Glory and honor of our God! Yours sincerely, J.P. Holm.</note>
+   <note displayLabel="Transcription">Bx 1697, B'ham, Ala., July 28th 1925. Dear Friends:About 10 days ago I sent a letter to Bro. Bryan enclosed a clipping from the "S.E. Chr. Advocate" and copy of letter sent the editor, stopping my paper, and criticizing him for assailing so unjustly Mr. Bryan. Perhaps Bro. Bryan didn't get around to answer it and got it in among his volumious mail. {(I will answer it.)}However if you know about it would like to know if he got around to answer it. If not, kindly hand this to our mutual friend Br. Thompson. It certainly was a wonderful victory for the Bible, Christianity and, all to the Glory and honor of our God! Yours sincerely, J.P. Holm.</note>
 </mods>

@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Discusses research into evolution, encloses clipping, asks to be contacted.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -40,5 +44,5 @@
    </subject>
    <note>Letter has been torn and taped.</note>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">Marcus Hook Pa,Jany 8, 1926\nMess Hicks &amp; Hicks Dayton Tenn. Dear Sirs,The Scopes Case put me into an almost-interminable research through the corrupt and dastardly books of Evolution. I have carried on the campaign through 3 near by newspapers. The N.Y. lawyers were right; evolution does raise a religious question, the same as Mormonism. But this defeats them; for as evolution goes back (as they claim) to the first cause, and in Tenn, the first violation of the Constitution came when evolution wa put into the schools, Have you made this point strong before your Supreme Court? Kindly let me hear from you(clipping enclosed) Yours Truly, Geo A Talley, Marcus Hook Pa.</note>
+   <note displayLabel="Transcription">Marcus Hook Pa,Jany 8, 1926Mess Hicks &amp; Hicks Dayton Tenn. Dear Sirs,The Scopes Case put me into an almost-interminable research through the corrupt and dastardly books of Evolution. I have carried on the campaign through 3 near by newspapers. The N.Y. lawyers were right; evolution does raise a religious question, the same as Mormonism. But this defeats them; for as evolution goes back (as they claim) to the first cause, and in Tenn, the first violation of the Constitution came when evolution wa put into the schools, Have you made this point strong before your Supreme Court? Kindly let me hear from you(clipping enclosed) Yours Truly, Geo A Talley, Marcus Hook Pa.</note>
 </mods>

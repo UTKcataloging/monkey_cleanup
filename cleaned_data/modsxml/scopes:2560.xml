@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Handwritten notes with case law and books about the Scopes trial</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -33,11 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;Monkey Trial&quot; Shelton N. Grebstein [sic]</title>
+      <title>"Monkey Trial" Shelton N. Grebstein [sic]</title>
    </titleInfo>
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">articles on trail-19 Tenn Law Review 3915 Tenn 153.\n[illegible] Chicgo Law [Press?] vol 27, p 505-522-529.\n&quot;Monkey Trial&quot;Sheldon N. Grebstei nsource material Scopes Trial\nBryan V Darrow at Dayton by Lewis Allen\n[stricken: B] Wm. J. Bryan by Paul Glad.\n[note: marginal text] notes by Timothy Burns on Scopes Case</note>
+   <note displayLabel="Transcription">articles on trail-19 Tenn Law Review 3915 Tenn 153.[illegible] Chicgo Law [Press?] vol 27, p 505-522-529."Monkey Trial"Sheldon N. Grebstei nsource material Scopes TrialBryan V Darrow at Dayton by Lewis Allen[stricken: B] Wm. J. Bryan by Paul Glad.[note: marginal text] notes by Timothy Burns on Scopes Case</note>
 </mods>

@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Letter refers to poem she sent, \Science Falsely So-Called,\ and asks for mistakes to be corrected.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Letter refers to poem she sent, Science Falsely So-Called, and asks for mistakes to be corrected.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,5 +43,5 @@
       <topic>Evolution (Biology)--Religious aspects--Christianity</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">&quot;[illegible]Haywood Co., No. Ca.July 10, 1925\nMy dear Judge Hicks,I sent you &quot;Science, Falsely So-Called-&quot; the other day. I see I said [Where?] Enemies in first verse I meant And enemies.Also in second to last verse, you wil[l]2be doing me a favour if you will change a mistake in this also in both copies. In the Agassiz verse Please change words &quot;all history&quot; to  race history.Thank you very much for [correcting?] &amp; giving copy to the greatest orator - Bryan.Yours truly, Jeannette R. Murphy.</note>
+   <note displayLabel="Transcription">"[illegible]Haywood Co., No. Ca.July 10, 1925My dear Judge Hicks,I sent you "Science, Falsely So-Called-" the other day. I see I said [Where?] Enemies in first verse I meant And enemies.Also in second to last verse, you wil[l]2be doing me a favour if you will change a mistake in this also in both copies. In the Agassiz verse Please change words "all history" to  race history.Thank you very much for [correcting?] &amp; giving copy to the greatest orator - Bryan.Yours truly, Jeannette R. Murphy.</note>
 </mods>

@@ -1,6 +1,10 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Encloses articles, speaks to bias of Chicago papers, looks to case as an opportunity to \shake up\ infidelity and agnosticism.</abstract>
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Encloses articles, speaks to bias of Chicago papers, looks to case as an opportunity to shake up infidelity and agnosticism.</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
@@ -39,5 +43,5 @@
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">4051 Ellis Ave. Apt &quot;D&quot;Chicago, Ill.July 2, 1925. Mr. S.K. Hicks (et al)Dayton, Tenn.Dear Sir:I am enclosing two articles which the Chicago paper refused to publish, but they had plenty of space for such &quot;stuff&quot; as the attached &quot;Could Bible be true?&quot; etc by Darrow.This Darrow is a pronounced agnostic, the Civil Liberties Union advocates &quot;free speech&quot; without any limit. So, you have the proper representation of anti-christ to Russianize America and our universities.Where may we obtain unbiased reports of the trial? I know the papers have all shown their cards: and I see where they stand. They will give every straw of advantage a big type in favor of the agnostic Darrow, who can brag of possibly saving the necks of the arch criminals Loeb &amp; Leopold and made crime a premium.I taught in high schools for 15 years, but had so many other valuable things to teach that I had no time for such hypotheses as evolution. Even if it were true, would it benefit the race.May this case be another opportunity to give Infidelity &amp; agnosticism a shaking up. to save 1000 of our young men. You have my prayers.FraternallyN.M. Towder(The articles contain some good dope)</note>
+   <note displayLabel="Transcription">4051 Ellis Ave. Apt "D"Chicago, Ill.July 2, 1925. Mr. S.K. Hicks (et al)Dayton, Tenn.Dear Sir:I am enclosing two articles which the Chicago paper refused to publish, but they had plenty of space for such "stuff" as the attached "Could Bible be true?" etc by Darrow.This Darrow is a pronounced agnostic, the Civil Liberties Union advocates "free speech" without any limit. So, you have the proper representation of anti-christ to Russianize America and our universities.Where may we obtain unbiased reports of the trial? I know the papers have all shown their cards: and I see where they stand. They will give every straw of advantage a big type in favor of the agnostic Darrow, who can brag of possibly saving the necks of the arch criminals Loeb &amp; Leopold and made crime a premium.I taught in high schools for 15 years, but had so many other valuable things to teach that I had no time for such hypotheses as evolution. Even if it were true, would it benefit the race.May this case be another opportunity to give Infidelity &amp; agnosticism a shaking up. to save 1000 of our young men. You have my prayers.FraternallyN.M. Towder(The articles contain some good dope)</note>
 </mods>

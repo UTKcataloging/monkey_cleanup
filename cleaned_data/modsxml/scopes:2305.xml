@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Handwritten list includes name and location of telegrams</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -36,10 +40,11 @@
       <title>Names of some of the people who sent telegrams to Mrs. Bryan</title>
    </titleInfo>
    <subject>
-      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80044871 ">
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80044871 ">
          <namePart>Bryan, William Jennings, 1860-1925</namePart>
       </name>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">[on reverse of second page] Names of some of people who sent telegrams to Mrs. Bryan\nWm [McKinery?]  Chicago Claus A Swanson  Washington Ben S. [stricken: S]paulen Gov.  Topeka KansasK.D. McKellan Sen.  Johnson City[Clem?] [Thomas?]  Fairmont W VaNewton D. Baker  Cleveland OJD Hunt Sec&apos;y to Gov. Peay  NashvilleH.M. Daugherty  Columbus OThomas C. McRae  Prescott ArkNorman E. Muck  Loonlakehouse NYJas M Cox  Miami FlaJas [illegible]  Washington DCTom C. Rye  Paris TennJ. Thos. Heflin  Lafayette Ala.Jno W Gaines  NashvilleHerbert Booth  Yonkers NYWm D. Upshaw  Silver Bay NYJno Hayes Hammond  Gloucester Mass.Austin Peay  Nashville TennC.J. Morley Gov.  Denver Colo.F.B. Swank M.C.  Norman OklaWalter Trumbull  NY CityHillary House  NashvilleChas Francis Patten  NYMrs Richard Croker  W. Palm BeachWm E Dever  ChicagoJos. P. Tumulty  Wash. D.C.Thos G. McLeod Gov.  Columbia S.C.Atlee Pomarene  ClevelandVic Donahey Gov.  Columbus OhioEarl B. Mayfield Senator,  Austin TexasWm. W. Brandon Gov.  Ala.[note: section torn] Duncan U. Fletc[h]er Sen.  [note: text misssing]Thos. J. Ferrell, Gov.  Ark.John W. Davis  Glen Cove, NYC. Vanderbilt Jr.  Savanah, Ga.Col. Luke Lee  Nashville[S.?] G. [Melville?]  Miami Fla.James M. Baker  Washington, D.C.Joseph Daniels  Raleigh, N.C.Geo. Wharton Pepper Sen  PennF. L. [McGerris?]  N.Y.Pat Harrison Sen.  Miss.</note>
+   <note displayLabel="Transcription">[on reverse of second page] Names of some of people who sent telegrams to Mrs. BryanWm [McKinery?]  Chicago Claus A Swanson  Washington Ben S. [stricken: S]paulen Gov.  Topeka KansasK.D. McKellan Sen.  Johnson City[Clem?] [Thomas?]  Fairmont W VaNewton D. Baker  Cleveland OJD Hunt Sec'y to Gov. Peay  NashvilleH.M. Daugherty  Columbus OThomas C. McRae  Prescott ArkNorman E. Muck  Loonlakehouse NYJas M Cox  Miami FlaJas [illegible]  Washington DCTom C. Rye  Paris TennJ. Thos. Heflin  Lafayette Ala.Jno W Gaines  NashvilleHerbert Booth  Yonkers NYWm D. Upshaw  Silver Bay NYJno Hayes Hammond  Gloucester Mass.Austin Peay  Nashville TennC.J. Morley Gov.  Denver Colo.F.B. Swank M.C.  Norman OklaWalter Trumbull  NY CityHillary House  NashvilleChas Francis Patten  NYMrs Richard Croker  W. Palm BeachWm E Dever  ChicagoJos. P. Tumulty  Wash. D.C.Thos G. McLeod Gov.  Columbia S.C.Atlee Pomarene  ClevelandVic Donahey Gov.  Columbus OhioEarl B. Mayfield Senator,  Austin TexasWm. W. Brandon Gov.  Ala.[note: section torn] Duncan U. Fletc[h]er Sen.  [note: text misssing]Thos. J. Ferrell, Gov.  Ark.John W. Davis  Glen Cove, NYC. Vanderbilt Jr.  Savanah, Ga.Col. Luke Lee  Nashville[S.?] G. [Melville?]  Miami Fla.James M. Baker  Washington, D.C.Joseph Daniels  Raleigh, N.C.Geo. Wharton Pepper Sen  PennF. L. [McGerris?]  N.Y.Pat Harrison Sen.  Miss.</note>
 </mods>

@@ -1,5 +1,9 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <abstract>Small note pages with handwritten, numbered lists of points by source</abstract>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
@@ -33,11 +37,11 @@
       </holdingSimple>
    </location>
    <titleInfo>
-      <title>&quot;Walton and Whitaker...&quot;</title>
+      <title>"Walton and Whitaker..."</title>
    </titleInfo>
    <subject>
       <topic>Bible and evolution</topic>
    </subject>
    <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
-   <note displayLabel="Transcription">Walton &amp; Whitaker.\n1. Contradiction - 2. Bible not literal. 3. St. Paul&apos;s statement allegorical. Shaler Matthews[.] 1. Interpretation of Bible. Cooper Pope (scientists)\n1. Evolution [story?] of [illegible] {2} 2. Facts showing evolution of men [or?] retation of men to other animals.3. Embryo, hair of baby. 4. [common?] stock.\n5. [illegible]  man in Java. 5 other fossil [illegible] 6 [illegible] scull Heidleburg man,{3} 7. In anatol [illegible,]8 cro-magnon man,9. [illegible.]1. Ages defined.2. [Tennessee Mountains?] formation.3. Rocky [mountain?] {4}Rv. P. Curtismin. of mo.Anthropologist &amp; Zoologist.1. [illegible]</note>
+   <note displayLabel="Transcription">Walton &amp; Whitaker.1. Contradiction - 2. Bible not literal. 3. St. Paul's statement allegorical. Shaler Matthews[.] 1. Interpretation of Bible. Cooper Pope (scientists)1. Evolution [story?] of [illegible] {2} 2. Facts showing evolution of men [or?] retation of men to other animals.3. Embryo, hair of baby. 4. [common?] stock.5. [illegible]  man in Java. 5 other fossil [illegible] 6 [illegible] scull Heidleburg man,{3} 7. In anatol [illegible,]8 cro-magnon man,9. [illegible.]1. Ages defined.2. [Tennessee Mountains?] formation.3. Rocky [mountain?] {4}Rv. P. Curtismin. of mo.Anthropologist &amp; Zoologist.1. [illegible]</note>
 </mods>
