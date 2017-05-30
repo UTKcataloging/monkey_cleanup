@@ -1,0 +1,45 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Requests copy of Bryan&apos;s speech.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000376</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000376</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 10</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from H.G. Wall to &quot;Sue Hicks, Editor&quot;</title>
+   </titleInfo>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80044871 ">
+         <namePart>Bryan, William Jennings, 1860-1925</namePart>
+      </name>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">Mountain Lake, Minn.July 31st 1925.To Sue Hicks, Editor Chattanooga, Tenn. Dear Publisher: Kindly inform me regarding that speech whether it is in print and where it will be available, Mr W.J. Bryan the great mans speech he wanted to deliver the closing hours of the Scopes case. The sad news came unexpected, The Commoner has abundance of friends, because the Church loved him. He defended the faith, not the bible, which was delivered once to the saints and all Christians. Please let me hear from you and about the booklet that he had arranged to have printed at Chattanooga. Yours truly,H.G. Wall</note>
+</mods>

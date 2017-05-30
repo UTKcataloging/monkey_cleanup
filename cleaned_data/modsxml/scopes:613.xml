@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Handwritten notes</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000076</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000076</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>13 sections of legal citations; top (last) page begins with Couch vs. State</title>
+   </titleInfo>
+   <subject>
+      <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">(1) 149 Tenn. 245, Davis v [illegible]not in point. applys to referal of [illegible]\n(2) 148 Tenn. 337, T.S. Jordan vs. city of Cleveland. Holds, acts may [illegible] subject, without being wholly invalid.148 Tenn 278. Henderson v Breedon Bros.Holds, relative to to amendment of former statute.148 Tenn. 188. First National Bank v. Howard,Relative to uniform acknowlegdments.\n(3) 147 Tenn. 589. House vs. Creveling,Holds as to validity of the Reorganization Bill. ([good?] case) 147 Tenn. 421. Baker vs. State. Deals with validity of Act relative to storing liquor. States purpose of sec. 17, art. 2.(4) 146 Tenn. 168. Reed vs. Mayor &amp; Aldermen of Athens, Holds this section to be construed liberally. P. 173.146 Tenn. 419. Mitchell vs. Usilton. Silas Williams&apos; case relative to workman&apos;s compensation act. very brief.146 Tenn. 615. Edwards vs. Davis. Decided unconstitutional under other sections.(5) 145 Tenn. 678. Minter vs. State. applys as to amendments of liquor law.145 Tenn. 471. Cavender vs. Hewitt. Relates to garnishment of municipal officers, not very good.145 Tenn. 499. Sherrill vs. Thomason. not in point at all.\n145 Tenn. 318. Willis vs. Mann Const. Co. Refers to amendment of former statute referring to Laborers Lien on assets of a corporation.145 Tenn. 361. Greenwood vs. Rickman. The act in question provides for issuing of bonds, for the levying of taxes to pay the same etc, and to provide a fund to lengthen the school term [etc.?], and to amend charter of Algood.(6) 144 Tenn. 255. Wright vs. Donaldson. Statute relating to road in certain counties.144 Tenn. 159.As to acts of 1919, Bureau of Workshop &amp; Factory Inspection Act. (good case)\n(7) (not very goo)143 Tenn. 452. Jackson v. Bell (456)Held, act Creating office of Fire Prevention commissioner not invalid as containing matter not within caption.143 Tenn. 628, Williamson county vs. Franklin &amp; Spring Hill Turnpike C. As to Revenue for Highway Department and eminent domain. (good case)143 Tenn  587. Bell vs. Hart. act removing disabitilies and exempting married woman&apos;s homestead- Extra good).  143 Tenn. 247. Davis vs. Hailey. Act regulation real estate agents not invalid as containing two subjects.143 Tenn. 86. Scott vs. nashville Bridge Co. (10 3) Holds compensation act not broader than title. Extra good.143 Tenn. 55. Wilson vs. State.Held statute regarding raising of revenue &amp; building of roads does not contain the subjects. (8) 142 Tenn. 382. Swift &amp; Co vs. Hailey. Relative to taxation. As to amendment142 Tenn. 215. Hill Roberts (not good).142 Tenn 94. Stinnett v. State. [Holds?] as to amendment. (9) 141 Tenn. 645. (662) Vertrees vs. State Board of Elections. (no good)141 Tenn. 618. city of Memphis vs. Enloe. (as to amendment.)141 Tenn. 405. State ex rel. vs. city of Nashv[ille?] (as to amendment).(10) 140 Tenn. 582. Kizer vs. State Liquor case. Extra good.140 Tenn. 549. Gill vs. McKinney (no good).  140 Tenn. 156. Couch vs. State. Statute fixing criminal jurisdic[tion?] on Missippi River. good case (Extra).  (11) 139 Tenn. 680. Moye vs. State.Statute requiring husband to require for wives not invalid. [illegible] [embrace?] more than one subject.139 Tenn. 332. Chatt. Ry &amp; Lgt. Co. vs. Bettis. Holds as to [illegible] law in Hamilton Co. as to amendment.(12) 138 Tenn. 88. City Lumber Co v. Temple. not in point. Holds as to [amendment?].  (13) 137 Tenn. 590. Wilson vs Wilson, as to amendment.137 Tenn. 491. Railroad v. Mayor &amp; Aldemen of Union City. Amendment.</note>
+</mods>

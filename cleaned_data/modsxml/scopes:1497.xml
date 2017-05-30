@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Plans to send insured manuscript which proves divine creation of man; wants manuscript kept a secret from Bryan.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000284</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000284</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 9</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from S.L. Walters to S. K. Hicks</title>
+   </titleInfo>
+   <subject>
+      <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">\n4851 Broadway Chicago IllJune 21st 1925\nMr SK HicksAttorneys, Dayton Tenn.\nGentlemanHave been trying to get in touch with some of the leading members of the prosecution of the John T. Scopes case. Had a letter last night telling me you were at the head of the case. This Scopes case is very interesting to me, because through this evolution theory I have not been able to have a Bible research story, (which I have written) published: Because it brings out and proves the divine creation of man in the image of the Devine Father. You will agree with me, where the great error lies, is in the interpretation of the fall of man, when once you learn its real meaning: The truth is what happened to poor Eve, not what they teach. My little story reveals the secret also many other ideas. The story simply told and proven beyond a doubt in the mind of the thinking people. . Therefore: I am sending my mss. to you. I only ask you to read the first hundred pages carefully I think there is something for you Tenneseeans to learn which will be a very great help to you in the winning of this most famous case. I am trying to send this work to you on the 22 or 23. at the latest. Will say were I there so I could tell my story to the Jury, the case would be decided in your favor. I do not want Mr Bryanto know about this story. He is not broad minded enough my work is very much deeper than his. My impression, is that you are very much more desirable for me to send the work to, than him. Keep it a secret for in case you should prefer to have me appear to tell and explain my theory to the Jury, as I do not wish to have my name made public before the case is won in your favor. The conditions I get is that Tennessee is going to be the winner.Trusting that I am not infringeing on your valuable time by sending this m&apos;ss. to you as I am doing. I know it will be a great benifit to you, in this case of Scopes: All I will ask of you is to take good care of my m&apos;ss and do not let it into the hands of children. Sooner or later I will have this work published. It is worth my life to me. Am having it Insured for one thousand dollars. $1000.00Respectfully YoursS L Walters</note>
+</mods>

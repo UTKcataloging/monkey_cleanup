@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Requests assistance in getting manuscript published.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000341</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000341</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 10</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from S.L. Walters to H.E. Hicks</title>
+   </titleInfo>
+   <subject>
+      <topic>Bible and evolution</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">4851 Broadway Chicago Ill. July 14 - 25. Mr H E HicksDayton Tenn. Gentleman, After writing you the other day, it occurred to me, that it may be possiable that you as some of the men most interested in this anti Evolution trial would be willing to aid me with this influence in having my book published. I feel that it is worthy of attention and should be placed on the market. The Editor of the [once?] Inter. [illegible] who has promised to aid me, and also strongly urged me to go on with my Research work, after a long spell of poor health died just recently.I am now at a loss, to know just what and how to do. No publisher will take my work though this evolution theory. I would like your advise on this, first. I will not let this work go into the hands of any priest or minister. They have never done any thing to bring any deep thought work out of the Bible, may I add, that my next work will put an end to this horriable evolution. How I wish I could see you and have a talk over my work you would be convinced that I am in the right I do not wish to say a great deal about my work,because through the honors that it is going to bring, will cause a lot of jealously. As you may already understand I am a student of the Occult forces, have been told I was very good in those deep studys. Now what I wish you to do is this. To try and have Judge J. T Raulston, and will say Attorney General Thomas Stuart, and any one else who you would deem an influential person to endorse my work, so that it would so through the publishing on a royalty basis. Then have you collect any pay that you would agree upon for your self, and the others also, out of the royalties. would leave this all in your hands untill every thing would be settled Now. [then?] should all be willing or agreeable for me to have my work dedicated to Tennessee.I only mention this over my gratitude to Tenn. will say as soon as I put this first work on the market. I will then spend the rest of my life in this research work. My work will lead on up to who Christ was. I cannot begin to tell you the work that I can bring out of the Bible.Trusting I am not infringing on your valuable time by so lengthy a letter.Respectfully Yours,S. L Walters.</note>
+</mods>

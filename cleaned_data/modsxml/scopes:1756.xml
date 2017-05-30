@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Letter expects trial to decide how far evolution can be taught in schools, asserts that God never taught evolution.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000334</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000334</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 10</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from Alexander Spotswood Dandridge to Prosecuting attorney</title>
+   </titleInfo>
+   <subject>
+      <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">[note: postscript written along margin, professional title is written diagonally above signature]\nJuly 6th 1925. Winchester Virginia. Prosecuting Attorney of Rhea County. My Dear Sir: -We Virginians expect you will in this trial decide just how far Evolution can be taught in the schools of Tennessee. These retired politicians &amp; criminal lawyers may Evolute just so far as they leave all connection between a man with a soul and the monkey without a soul - The Christians of the world do not expect agnostics and so-call scientist to put their construction on the Bible, and try in any way teach doctrines which our blessed Lord never taught.I am sure that it will be clearly set forth in this trial just how far evolution must be taught.Yours Sincerely, Alexander Spotswood Dandridge {Civil Engineer}. P.S. I do not know just now the name of gentleman who will represent the prosecuting attorney in this case</note>
+</mods>

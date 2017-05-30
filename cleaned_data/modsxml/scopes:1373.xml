@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Letter on the importance of the trial.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000237</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000237</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 9</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from Mrs. Edmund Major to Hicks &amp; Hicks</title>
+   </titleInfo>
+   <subject>
+      <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">June 9/1925 Hicks &amp; Hicks,Dayton, Tenn. Gentlemen: I want to encourage you. The victory must fall to the Prosecution in the Scopes case. I am sorry for Mr. Scopes. He has made a mistake.Please, don&apos;t forget that every law has its moral sanction. &quot;Law-makers do not originate obligations; their office is merely to interpret &amp; formulate the obligations already existing.&quot; That is all the man who offered the &quot;Anti-Evolution Bill&quot; did. Of course, the obligations existed &amp; it shows me that it has become necessary to pass such a bill any where in these United States, just when our respect for high &amp; holy things should have brought our culture into flower. America was settled for the purpose of worshiping God. To be sure, every man was to worship according to his own views. To worship God is beneficial to public &amp; individual. When you discredit one word of God as revealed by the Bible, you destroy what is of benefit to public &amp; individual. No man has a right to express himself to the unearned damage of another. I don&apos;t believe for a second those God-fearing people who built these United States ever dreamed that any one in them would teach the doctrine of animal origin. When we as a people discredit the Bible we destroy the cornerstone of our nation. When you exalt science above the Bible there comes ruin &amp; destruction. There are at least two examples of such a state in the history of the world, one very recent!Besides if we have such liberty of speech, was it lawful to deport certain ones from these United States. It was lawful, because their teaching was damaging.Please do not think me presumtive, I am a very shy person, but I must write for I feel this matter so important.God be with you,Mrs. Edmond Major.</note>
+</mods>

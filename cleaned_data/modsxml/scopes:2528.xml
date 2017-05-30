@@ -1,0 +1,44 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Discusses research into evolution, encloses clipping, asks to be contacted.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000588</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000588</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 17</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from Geo. A. Talley to Mess Hicks &amp; Hicks</title>
+   </titleInfo>
+   <subject>
+      <topic>Evolution (Biology)--Religious aspects--Christianity</topic>
+   </subject>
+   <note>Letter has been torn and taped.</note>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">Marcus Hook Pa,Jany 8, 1926\nMess Hicks &amp; Hicks Dayton Tenn. Dear Sirs,The Scopes Case put me into an almost-interminable research through the corrupt and dastardly books of Evolution. I have carried on the campaign through 3 near by newspapers. The N.Y. lawyers were right; evolution does raise a religious question, the same as Mormonism. But this defeats them; for as evolution goes back (as they claim) to the first cause, and in Tenn, the first violation of the Constitution came when evolution wa put into the schools, Have you made this point strong before your Supreme Court? Kindly let me hear from you(clipping enclosed) Yours Truly, Geo A Talley, Marcus Hook Pa.</note>
+</mods>

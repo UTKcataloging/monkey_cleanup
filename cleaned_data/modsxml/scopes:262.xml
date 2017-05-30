@@ -1,0 +1,44 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Examination answers by one of Scopes&apos;s students.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000040</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000040</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Biology Examination by Margaret Allen</title>
+   </titleInfo>
+   <subject>
+      <topic>Science</topic>
+   </subject>
+   <note>One or more pages may be missing.</note>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">{75}Subject: BiologyPupil&apos;s Name: Margaret Allen Age: 17 Teacher: Mr. Scopes\nI.Biology is the study of all living matter.\nII.1. Hymenoptera (membrane wing) bees, ants wasps have stings. 2. Lepedoptera (scale wings) moths.3. Orthoptera (straight wings) cricket.4. Diptera (2 wings) flies5. Hemiptera (half wings) bugs 6. Calinptera (sheath wings) beetles.\nIII[Note: drawing of a flower, parts labeled as follows]petalspolenanthersstamenovulsepalsIV[drawings of cell, first labeled as follows]cell wall necleus protoplasm{-2}\nV Man could not live without green plants because they furnish him with all the things he needs: food, {2} shelter, and give off oxygen.\nVI Amphibios animals go through several stages of developement before they be-come an adult. They can live both on land and in water. {-2}\nVII Men usually eat more than women because they are larger and exercise more. Growing children eat more in proportion to their size than adults. they need [bone?] forming food. Old people need fats and carbohydrates to keep them warm.They do not need minerals because it makes their bones brittle. A person working needs energy giving foods.\nVIII {-5}\nIX The sweat glands give off waste material salts water and mineral matter. This lowers temperature of body.\nXI [Note: drawing labeled as follows]Eustacian tube{-5}\nXII Inspects food, keeps [illegible] clean, disposes with garbage keeps drinking water pure. Examines school children demands vaccination and inoculation quarentine.\nXIII Eyestrain, bad teeth, aedinoids, {-2} bad tonsils.\nXIV All life came from single cell.How blood flows in body.\nX [Note: drawing of brain, labeled as follows] Cerebrum Leg Motion Arm Thought Feeling Sight Eyes nose Smell mouth Taste Hearing Ears Balancing Cerebellum Medulla Spinal Cord Reflex Action Respiration\nXV They are made first of fine sand on the bottom and then each layer get is made of larger rocks towards the top. Two [beds?] is [illegible] time [about?]. They are cleaned out and purified.\nXVI All the decendents of the Jukes and Kallikak family were either feeble-minded, morally deficient or criminals. Heredity.{-2}\nXVII [Note: cross-sectional drawing of a tree trunk, with the following labels] bark, pulp,growth, rings\nXVIII Hybridizing is selective growing of plants to get good resuts and new varieties of plants. Luther Burbank has [illegible] a new potato, cherry, and several fruits.\nXIV Complete metamorphosis is when the form is completely changed when adult stage is reached, as butterfly. Incomplete [stricken: change] meta. is just gradual change, as frog.{-2}\nXX Growth of fungi on trees and mold is harmful. Yeast is of advantage {-2} in fermentation and bread making.</note>
+</mods>

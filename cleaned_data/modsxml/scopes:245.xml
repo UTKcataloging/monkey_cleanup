@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Examination answers by one of Scopes&apos;s students.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000043</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000043</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Biology Examination by Jack Evans Hudson</title>
+   </titleInfo>
+   <subject>
+      <topic>Science</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">I{60}Pupil: Jack Evans HudsonSubject: Biology\nIIt is the study of all living thing plant and aminals.\nIIHymelpotlea ={-5}\nIII[Note: drawing of a flower, labeled as follows]petelsteaplespolenstem{-2}\nIV[Note: unlabeled drawings, likely cells]{-2}\nV[stricken: They furnish food]{-5}\nIIPupil: Jack Evans Hudson\nVIThe amphbia is aminal that can live on land or in water Like a Frog.\nVII[stricken: Th] If a person has the right kind of a diet they will live longer A person doing hard work should {-2} have more to eat and a person doing light work ought not to eat so much women ought not eat as much as men.\nVIIIWhen you breath you ribs go {-2} in and out and work every time you breath.\nIXThey are the glad that turn out the waste by going throw the skin.\nIIIPupil: Jack Hudson\nX [Note: drawing of the brain labeled as follows]\nthought,motions,arms + Legs,Feeling Taste,sight mouth {-2} eyes smell,Hearing,Balance\nXI[Note: drawing of ear labeled as follows]Auditory Canal {-2}Tympanic membranemiddle earenter earEustacchan tube\nXIIThey see that all [stricken: gar] rubbish is moved, [stricken: and] that the towns are clean and that the sewage is carried off.\nXIIIBecause they have not a good building and they are not healthly, [stricken: illegible] Lake our - school if we had a good\nIVPupil: Jack Hudsonschool building to go to we would study a lot harder.\nXIV{-5}\nXVThe large [stricken: city] cities of the country put their sewage in the rivers and lakes but some cities have [stricken: fl] filtering plant which they [run?] their sewage throw. and some countrys put theirs on the land.\nXVIThe Jukes family their mother was insane [stricken: there] their father a robber &amp; dunkard Most of the children have been insane robbers or drunkards The family has had a few great men in it [stricken: the Kallika]they do\nXVII[Note: drawing of a cross-section of a tree trunk, labeled as follows]pulp,woodBark\nXVIIIThat is where a man take two plants or two animals and produce a new [an?] better kind of animal or pland Burbanks is one of the greatest Hybridizers. [stricken: he take] he take one or two plants and puts them with another and makes a new kind.\nXIX{-5}{-5}</note>
+</mods>

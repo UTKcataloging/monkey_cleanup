@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Examination answers by one of Scopes&apos;s students.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000055</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000055</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Biology Examination by Orville Gannaway</title>
+   </titleInfo>
+   <subject>
+      <topic>Science</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">\n{75}{Pupil} Orville Gannaway{Subject} Biology {Teacher} J.T. Scopes{Date} April 28\nIBiology is the study of living [stricken: plants] beings both plants, and animals.II Hymenoptera (membrane wing) Bees, wasps.Orthoptera (straight wings)Diptera (two wings) Flies.Coleoptera (Sheath wings) Beetles.Lepidopteria (scale wings) Butterflies,moths.Hemenoptra (Half wings) bugs\nIII[note: drawing of a flower, labeled as follows]PollenLeavesPetalSepalsStamen\nIV[note: drawings of cells, labeled as follows]cell wallsneculusProtoplasmchromosomes{-2}\n{Pupil} Orville Gannaway{Subject} Biology {Teacher} J.T. Scopes{Date} April 28\nVGreen plants are of importance to man as food and also give off certain elements in the air that people need.VIThe frog is an amphibia animal and they are hatched in the water form a tadpole then change to [stricken: a] form two legs in front, then later the tail changes and forms two legs behind and is called a frog.VIIIf a person is working at hard labor they ought to eat more than any one who works in the office.A young person just growing up need to eat more than an old person. Men and boys need more to eat than a girl or woman because thy do more muscular work.VIIIBy muscular breathing you can take in more air into the lungs and expand the muscles of your chesr.\n{Pupil} Orville Gannaway{Subject} Biology {Teacher} J.T. Scopes{Date} April 28\nIXThe sweat glands pour the heat out through the skin of the body and helps to regulate the temperature.X[note: drawing of the brain, labeled as follows]thoughtarmseyeslegshearingsmell &amp; tasteSpinal cordXI[note: drawing of ear, labeled as follows]Eustachian Tube.{-5}\nXIIThe work of the city board of health is to see that evey thing is clean about the city and inspect the factories and your homes once a month or sooner. They also look after the milk that is shiped into larger towns. The City board of health is suppose to look after the water supply of [stricken: y] the town.\n{Pupil} Orville Gannaway{Subject} Biology {Teacher} J.T. Scopes{Date} April 28\nXIII{-5}\nXIV{Circulation of the blood.}[note: written in same hand but darker ink]{-2}\nXVSome cities have tanks to run their disposal in and chemicals to pour in on the disposal that soon destroys it.Most cities run their disposal into rivers and Creeks.\nXVIThe Jukes family was a family of 496 decendents and some of them were drunkards, epileptics, and most were immoral.The Kallikak family were a strong minded people the mother of the family were of strong mind and\n{Pupil} Orville Gannaway{Subject} Biology {Teacher} J.T. Scopes{Date} April 28her descendants have become some of the great men of the United States.\nXVII[note: drawing of the cross-section of a tree, labeled as follows]Bark Protection for the treerings to tell how old the tree is.Pith.\nXVIII[note: new ink begins here] Hybridizing is the Crossing of any plants. The greatest, hybridizery is Luther Burbank.IX[stricken: The difference]Metamorphasis is the stage between pupae and adult. {-5}XX{-5}</note>
+</mods>

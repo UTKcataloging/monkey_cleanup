@@ -1,0 +1,44 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Discusses hopes for promotion of the manuscript in America and English-speaking markets.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000413</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000413</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 13</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>Letter from S.L. Walters to Hicks &amp; Hicks</title>
+   </titleInfo>
+   <subject>
+      <topic>Bible</topic>
+   </subject>
+   <note>Letter is missing pieces on the right side.</note>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">[note: letter is missing portions along right side]\n4851 Broadway Chicago I[ll?]Jan. 2 1926. Hicks + HicksDayton Tenn. Gentleman.Am trusting you still have an interest in my book and that you soon will be able to promote the work, and get it on the market, once it is on the market where it will meet the public, the most trying part will be over. And I wish to tell you two young men that I have all confidence in you, and will also say there is great possibility in this work for you both when given credence in America then you are to promote it in [note: possible missing text] English speaking countries which will mean both w[note: missing] and money, to you. Then as soon as I can I will have an[note: missing] volume, The Lost Tribe. That.. will settle the question of evolution, there is no doubt about it. I am not in the least afraid but that my work will yet prove it self in the right and fundamental faith will be hearlded throughout eternity. I will tell you my work will set people to thinking and when the world learns what the Judgement day mean[s?] it will cause them to act, as well as think, am sure you wi[ll?] agree with me, in saying the world is in a terriable state an[d?] getting worse all the time. Therefore: am very anxious [note: missing text] to get this work on the market, trust that you will give [note: missing text] your consideration along with your valuable time. Thanking [note: missing text]Sincerly Yours,S.L. Walters.</note>
+</mods>

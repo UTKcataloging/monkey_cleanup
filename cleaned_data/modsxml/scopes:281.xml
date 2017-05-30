@@ -1,0 +1,44 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>The author argues evolution is only a theory, and one \at varience with the Holy Writ\</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000035</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000035</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 2</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>STATUS OF THE THEORY OF ORGANIC EVOLUTION</title>
+   </titleInfo>
+   <subject>
+      <topic>Evolution</topic>
+   </subject>
+   <note>Contains 4 typewritten pages, and extra handwritten notes on verso of 3rd typewritten page.</note>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">[Note: Handwritten on reverse of third page of manuscript]\n*1. The germinal constitution is a factor in every characteristic an organism has.2. Change in germinal constitution may [illegible] given Environment, alter any characteristic [Section torn]3. What the Environment can do is limited by what the germ contains. [but?]4) The Environment is a factor in every characteristic. 5. Change in Environment may alter any characteristic.6. What the germinal constitution can produce is strictly limited by the Environment under [which?] it develops.Some of the principles experimentally determined by Mendel by personal investigation in his flower garden, - of the Austrian Monastery of which he was abbot.I do not know whether Mendel claimed to have developed any new species, - [illegible].A.B.B.</note>
+</mods>

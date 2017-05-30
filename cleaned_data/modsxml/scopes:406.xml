@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Small note pages with handwritten, numbered lists of points by source</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000012</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000012</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>&quot;Walton and Whitaker...&quot;</title>
+   </titleInfo>
+   <subject>
+      <topic>Bible and evolution</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">Walton &amp; Whitaker.\n1. Contradiction - 2. Bible not literal. 3. St. Paul&apos;s statement allegorical. Shaler Matthews[.] 1. Interpretation of Bible. Cooper Pope (scientists)\n1. Evolution [story?] of [illegible] {2} 2. Facts showing evolution of men [or?] retation of men to other animals.3. Embryo, hair of baby. 4. [common?] stock.\n5. [illegible]  man in Java. 5 other fossil [illegible] 6 [illegible] scull Heidleburg man,{3} 7. In anatol [illegible,]8 cro-magnon man,9. [illegible.]1. Ages defined.2. [Tennessee Mountains?] formation.3. Rocky [mountain?] {4}Rv. P. Curtismin. of mo.Anthropologist &amp; Zoologist.1. [illegible]</note>
+</mods>

@@ -1,0 +1,43 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <abstract>Examination answers by one of Scopes&apos;s students.</abstract>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier>MPA.0136</identifier>
+   </relatedItem>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="filename">0012_000416_000039</identifier>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordIdentifier>record_0012_000416_000039</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 5, Folder 3</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+   </location>
+   <titleInfo>
+      <title>General Science Examination by Winfred West</title>
+   </titleInfo>
+   <subject>
+      <topic>Science</topic>
+   </subject>
+   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <note displayLabel="Transcription">{80}General Science Winfred WestIThe house fly has hairs on it legs and when it goes to nasty places to lay eggs it gets tyfoid germs on its feet and goes and walkes on food that man is going to eat. When he eats the food it gives him tyfoid feaver The house fly is sometimes called the tyfoid fly.IIWhen people go barefooted in the summer they sometimes get hookworms. The hookworms crawl into the feet and are carried by the blood to the heart. You said that they eat their way to the lungs but the book said that the blood carried them on to the lungs.IIIMan is the climiax of the animals on the earth. He has subdued all the other animals by being able to think. He could not subdue them by force.IVWheather good was in [close?], where there is not any [illegible] near where mosquetos can breed. nearness to factories and other manufacturing industries should all be taken in consideration when a home is to be built.VThe earth is thought by scientist to be millions of years old. There are rocks and other things to indicate this.VIThe sun has seven planets revolving around it and the earth is third in number from the sun and fifth in size. The sun is much larger than the earth and ispage twoon fire which makes it give lite to the earth. The moon revolves around the earth and is about 2000 miles through it while the earth is 8000.VIIA true star is on fire and is fixed. A planet revolves around one of these stars and its lite is reflected from the star it is revolving around.VIIIAfter the French revolution they thought every thing had to be changed so they mad the Meter system.IXThey measured along a degree of longitude from Parace to Barcalona Spane and devided it into 10000 parts and called one of the parts a Meter.XEach of the different demoninations is multiplied or devided by ten to give another 11,</note>
+</mods>
