@@ -16,14 +16,15 @@ def get_transcript(x):
             try:
                 if type(the_stuff['mods']['note']) != str:
                     if(type(the_stuff['mods']['note'])) is dict:
-                        new_ocr = open('../ocr/{0}_OCR'.format(y), 'w')
+                        number_of_dictionaries += 1
+                        new_ocr = open('../ocr/{0}'.format(y), 'w')
                         new_ocr.write(the_stuff['mods']['note']['#text'])
                         new_ocr.close()
                     elif(type(the_stuff['mods']['note'])) is list:
                         for thing in the_stuff['mods']['note']:
                             if(type(thing)) is dict:
                                 number_of_lists += 1
-                                new_ocr = open('../ocr/{0}_OCR'.format(y), 'w')
+                                new_ocr = open('../ocr/{0}'.format(y), 'w')
                                 new_ocr.write(thing['#text'])
                                 new_ocr.close()
             except KeyError:
