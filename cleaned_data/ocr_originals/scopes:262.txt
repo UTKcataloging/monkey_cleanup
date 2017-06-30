@@ -1,4 +1,6 @@
-{75}Subject: Biology 
+{75}
+
+Subject: Biology 
 Pupil's Name: Margaret Allen 
 Age: 17 
 Teacher: Mr. Scopes
