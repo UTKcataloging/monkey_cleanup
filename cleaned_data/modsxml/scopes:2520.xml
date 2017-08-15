@@ -1,49 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Address from statesman praises Bryan's honesty, morality, Christianity. </abstract>
-   <relatedItem displayLabel="Collection" type="host">
-      <titleInfo>
-         <title>Sue K. Hicks Papers</title>
-      </titleInfo>
-      <identifier>MPA.0136</identifier>
-   </relatedItem>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-      </titleInfo>
-   </relatedItem>
-   <identifier type="filename">0012_000416_000589</identifier>
-   <language>
-      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-   </language>
-   <recordInfo>
-      <recordIdentifier>record_0012_000416_000589</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-      <languageOfCataloging>
-         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-      </languageOfCataloging>
-      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
-   </recordInfo>
-   <location>
-      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-      <holdingSimple>
-         <copyInformation>
-            <shelfLocator>Box 5, Folder 17</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <titleInfo>
-      <title>Address of William G. McAdoo at Bryan's Memorial Services</title>
-   </titleInfo>
-   <subject>
-      <name authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n80044871 ">
-         <namePart>Bryan, William Jennings, 1860-1925</namePart>
-      </name>
-   </subject>
-   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_000416_000589</identifier>
+  <titleInfo>
+    <title>Address of William G. McAdoo at Bryan&apos;s Memorial Services</title>
+  </titleInfo>
+  <abstract>Address from statesman praises Bryan&apos;s honesty, morality, Christianity. </abstract>
+  <originInfo>
+    <dateCreated>8/9/2025</dateCreated>
+    <place>
+      <placeTerm type="text">Los Angeles, CA</placeTerm>
+    </place>
+  </originInfo>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Sue K. Hicks Papers</title>
+    </titleInfo>
+    <identifier type="local">MPA.0136</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+    <shelfLocator>Box 5, Folder 17</shelfLocator>
+  </location>
+  <physicalDescription>
+    <extent>1 booklet, 8 pages (8 5/8 in x 5 1/2 in)</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <form>manuscripts (document genre)</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <name>
+    <namePart>McAdoo, William G.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <name>
+      <namePart>Bryan, William Jennings, 1860-1925 | http://id.loc.gov/authorities/names/n80044871 </namePart>
+    </name>
+  </subject>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+    </titleInfo>
+  </relatedItem>
 </mods>

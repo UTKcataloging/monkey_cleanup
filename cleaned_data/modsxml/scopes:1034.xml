@@ -1,46 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Supreme Court overturns conviction of Nebraska schoolteacher for teaching foreign language to a child who had not completed eighth grade.</abstract>
-   <relatedItem displayLabel="Collection" type="host">
-      <titleInfo>
-         <title>Sue K. Hicks Papers</title>
-      </titleInfo>
-      <identifier>MPA.0136</identifier>
-   </relatedItem>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-      </titleInfo>
-   </relatedItem>
-   <identifier type="filename">0012_000416_000120</identifier>
-   <language>
-      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-   </language>
-   <recordInfo>
-      <recordIdentifier>record_0012_000416_000120</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-      <languageOfCataloging>
-         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-      </languageOfCataloging>
-      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
-   </recordInfo>
-   <location>
-      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-      <holdingSimple>
-         <copyInformation>
-            <shelfLocator>Box 5, Folder 5</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <titleInfo>
-      <title>Robert T. Meyer, State of Nebraska, U.S. 260-262</title>
-   </titleInfo>
-   <subject>
-      <topic>Legal opinions.</topic>
-   </subject>
-   <accessCondition>Public domain.</accessCondition>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_000416_000120</identifier>
+  <titleInfo>
+    <title>Robert T. Meyer, State of Nebraska, U.S. 260-262</title>
+  </titleInfo>
+  <abstract>Supreme Court overturns conviction of Nebraska schoolteacher for teaching foreign language to a child who had not completed eighth grade.</abstract>
+  <originInfo>
+    <dateCreated>6/4/1925</dateCreated>
+  </originInfo>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Sue K. Hicks Papers</title>
+    </titleInfo>
+    <identifier type="local">MPA.0136</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+    <shelfLocator>Box 5, Folder 5</shelfLocator>
+  </location>
+  <physicalDescription>
+    <extent>1 manuscript (6 pages, 14 in x 8 1/2 in)</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <form>records (documents)</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <name authority="lcnaf" valueURI=" http://id.loc.gov/authorities/names/n89103731">
+    <namePart>McReynolds, James Clark, 1862-1946 </namePart>
+    <role>
+      <roleTerm>Author</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Legal opinions.</topic>
+  </subject>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+    </titleInfo>
+  </relatedItem>
 </mods>

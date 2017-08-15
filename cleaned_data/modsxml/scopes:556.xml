@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3">
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
   <mods:titleInfo>
-      <mods:title>"A Witness" by John M. Jenkins : page 39</mods:title>
+    <mods:title>&quot;A Witness&quot; by John M. Jenkins : page 39</mods:title>
   </mods:titleInfo>
 </mods:mods>

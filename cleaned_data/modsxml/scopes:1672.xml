@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3">
+
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3">
   <mods:titleInfo>
-      <mods:title>Extracts from the Manuscript 'Harmony of the Bible and Science' : page 1</mods:title>
+    <mods:title>Extracts from the Manuscript &apos;Harmony of the Bible and Science&apos; : page 1</mods:title>
   </mods:titleInfo>
 </mods:mods>

@@ -1,50 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Typewritten argument refuting evolution and promoting creationism.</abstract>
-   <relatedItem displayLabel="Collection" type="host">
-      <titleInfo>
-         <title>Sue K. Hicks Papers</title>
-      </titleInfo>
-      <identifier>MPA.0136</identifier>
-   </relatedItem>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-      </titleInfo>
-   </relatedItem>
-   <identifier type="filename">0012_000416_000024</identifier>
-   <language>
-      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-   </language>
-   <recordInfo>
-      <recordIdentifier>record_0012_000416_000024</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-      <languageOfCataloging>
-         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-      </languageOfCataloging>
-      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
-   </recordInfo>
-   <location>
-      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-      <holdingSimple>
-         <copyInformation>
-            <shelfLocator>Box 5, Folder 2</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <titleInfo>
-      <title>Direct Creation Vs. Evolution</title>
-   </titleInfo>
-   <subject>
-      <topic>Bible and evolution</topic>
-   </subject>
-   <subject>
-      <topic>Creationism</topic>
-   </subject>
-   <note>contains handwritten annotations.</note>
-   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_000416_000024</identifier>
+  <titleInfo>
+    <title>Direct Creation Vs. Evolution</title>
+  </titleInfo>
+  <abstract>Typewritten argument refuting evolution and promoting creationism.</abstract>
+  <originInfo>
+    <dateCreated>unknown</dateCreated>
+    <place>
+      <placeTerm type="text">Knoxville, Tennessee</placeTerm>
+    </place>
+  </originInfo>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Sue K. Hicks Papers</title>
+    </titleInfo>
+    <identifier type="local">MPA.0136</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+    <shelfLocator>Box 5, Folder 2</shelfLocator>
+  </location>
+  <physicalDescription>
+    <extent>1 manuscript (7 pages)</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <form>manuscripts (document genre)</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <name>
+    <namePart>Beaman, T.L.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Bible and evolution</topic>
+  </subject>
+  <subject>
+    <topic>Creationism</topic>
+  </subject>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <note>contains handwritten annotations.</note>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+    </titleInfo>
+  </relatedItem>
 </mods>

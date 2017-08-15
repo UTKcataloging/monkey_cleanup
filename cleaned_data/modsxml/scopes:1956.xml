@@ -1,46 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <abstract>Contests Darwin's The Descent of Man.</abstract>
-   <relatedItem displayLabel="Collection" type="host">
-      <titleInfo>
-         <title>Sue K. Hicks Papers</title>
-      </titleInfo>
-      <identifier>MPA.0136</identifier>
-   </relatedItem>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-      </titleInfo>
-   </relatedItem>
-   <identifier type="filename">0012_000416_000437</identifier>
-   <language>
-      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-   </language>
-   <recordInfo>
-      <recordIdentifier>record_0012_000416_000437</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-      <languageOfCataloging>
-         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-      </languageOfCataloging>
-      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
-   </recordInfo>
-   <location>
-      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-      <holdingSimple>
-         <copyInformation>
-            <shelfLocator>Box 5, Folder 14</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <titleInfo>
-      <title>Darwinism and Ape-Evolution Defunct</title>
-   </titleInfo>
-   <subject>
-      <topic>Evolution (Biology)--Religious aspects--Christianity</topic>
-   </subject>
-   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <identifier type="filename">0012_000416_000437</identifier>
+  <titleInfo>
+    <title>Darwinism and Ape-Evolution Defunct</title>
+  </titleInfo>
+  <abstract>Contests Darwin&apos;s &quot;The Descent of Man.&quot;</abstract>
+  <originInfo>
+    <dateCreated>8/20/1925</dateCreated>
+    <place>
+      <placeTerm type="text">Marcus Hook, PA</placeTerm>
+    </place>
+  </originInfo>
+  <relatedItem displayLabel="Collection" type="host">
+    <titleInfo>
+      <title>Sue K. Hicks Papers</title>
+    </titleInfo>
+    <identifier type="local">MPA.0136</identifier>
+  </relatedItem>
+  <location>
+    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+    <shelfLocator>Box 5, Folder 14</shelfLocator>
+  </location>
+  <physicalDescription>
+    <extent>1 pamphlet (2 pages, 9 in x 6 in)</extent>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <form>pamphlets</form>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <name>
+    <namePart>Talley, George A.</namePart>
+    <role>
+      <roleTerm>Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <topic>Evolution (Biology)--Religious aspects--Christianity</topic>
+  </subject>
+  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <recordInfo>
+    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+  </recordInfo>
+  <relatedItem displayLabel="Project" type="host">
+    <titleInfo>
+      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+    </titleInfo>
+  </relatedItem>
 </mods>

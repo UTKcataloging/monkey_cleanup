@@ -1,44 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<mods xmlns="http://www.loc.gov/mods/v3"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">0012_000416_000133</identifier>
+   <titleInfo>
+      <title>Clarence Darrow and William Jennings Bryan</title>
+   </titleInfo>
    <abstract>Photograph, standing</abstract>
+   <originInfo>
+      <dateCreated>[1925]</dateCreated>
+      <place>
+         <placeTerm type="text">Dayton, TN</placeTerm>
+      </place>
+   </originInfo>
    <relatedItem displayLabel="Collection" type="host">
       <titleInfo>
          <title>Sue K. Hicks Papers</title>
       </titleInfo>
-      <identifier>MPA.0136</identifier>
+      <identifier type="local">MPA.0136</identifier>
    </relatedItem>
-   <relatedItem displayLabel="Project" type="host">
-      <titleInfo>
-         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-      </titleInfo>
-   </relatedItem>
-   <identifier type="filename">0012_000416_000133</identifier>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 7</shelfLocator>
+   </location>
+   <physicalDescription>
+      <extent>1 photograph (1 page)</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+   </physicalDescription>
    <language>
       <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
    </language>
-   <recordInfo>
-      <recordIdentifier>record_0012_000416_000133</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-      <languageOfCataloging>
-         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-      </languageOfCataloging>
-      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
-   </recordInfo>
-   <location>
-      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-      <holdingSimple>
-         <copyInformation>
-            <shelfLocator>Box 5, Folder 7</shelfLocator>
-         </copyInformation>
-      </holdingSimple>
-   </location>
-   <titleInfo>
-      <title>Clarence Darrow and William Jennings Bryan</title>
-   </titleInfo>
    <name>
       <namePart>unknown</namePart>
       <role>
@@ -48,5 +42,18 @@
    <subject>
       <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
    </subject>
-   <accessCondition>The copyright interests in this item remain with the creator. For more information contact Special Collections at special@utk.edu.</accessCondition>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
+   </relatedItem>
 </mods>
