@@ -1,53 +1,58 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <identifier type="filename">0012_000416_000142</identifier>
   <titleInfo>
-    <title>W.J. Bryan&apos;s casket</title>
+      <title>W.J. Bryan's casket</title>
   </titleInfo>
   <abstract>Casket being transferred from funeral parlor to hearse.</abstract>
   <originInfo>
-    <dateCreated>[1925]</dateCreated>
+      <dateCreated>[1925]</dateCreated>
   </originInfo>
   <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Sue K. Hicks Papers</title>
-    </titleInfo>
-    <identifier type="local">MPA.0136</identifier>
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier type="local">MPA.0136</identifier>
   </relatedItem>
   <location>
-    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-    <shelfLocator>Box 5, Folder 7</shelfLocator>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 7</shelfLocator>
   </location>
   <physicalDescription>
-    <extent>1 photograph, notes on reverse (2 total pages)</extent>
-    <digitalOrigin>reformatted digital</digitalOrigin>
-    <form>photographs</form>
+      <extent>1 photograph, notes on reverse (2 total pages)</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
   </physicalDescription>
   <language>
-    <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">zxx</languageTerm>
   </language>
   <name>
-    <namePart>unknown</namePart>
-    <role>
-      <roleTerm>Photographer</roleTerm>
-    </role>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm>Photographer</roleTerm>
+      </role>
   </name>
   <subject>
-    <name>
-      <namePart>Bryan, William Jennings, 1860-1925 | http://id.loc.gov/authorities/names/n80044871 </namePart>
-    </name>
+      <name>
+         <namePart>Bryan, William Jennings, 1860-1925 | http://id.loc.gov/authorities/names/n80044871 </namePart>
+      </name>
   </subject>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
   <recordInfo>
-    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
   </recordInfo>
   <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-    </titleInfo>
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
   </relatedItem>
 </mods>

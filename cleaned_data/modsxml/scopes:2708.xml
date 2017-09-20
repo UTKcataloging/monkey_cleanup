@@ -1,55 +1,61 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <identifier type="filename">0012_000416_000511</identifier>
   <titleInfo>
-    <title>Envelope from Bryan to  Hicks &amp; Hicks</title>
+      <title>Envelope from Bryan to  Hicks &amp; Hicks</title>
   </titleInfo>
   <abstract>Empty envelope</abstract>
   <originInfo>
-    <dateCreated>5/30/1925</dateCreated>
-    <place>
-      <placeTerm type="text">Pittsburgh, PA</placeTerm>
-    </place>
+      <dateCreated>5/30/1925</dateCreated>
+      <place>
+         <placeTerm type="text">Pittsburgh, PA</placeTerm>
+      </place>
   </originInfo>
   <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Sue K. Hicks Papers</title>
-    </titleInfo>
-    <identifier type="local">MPA.0136</identifier>
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier type="local">MPA.0136</identifier>
   </relatedItem>
   <location>
-    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-    <shelfLocator>Box 5, Folder 15</shelfLocator>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 15</shelfLocator>
   </location>
   <physicalDescription>
-    <extent>1 envelope</extent>
-    <digitalOrigin>reformatted digital</digitalOrigin>
-    <form>correspondence</form>
+      <extent>1 envelope</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
   </physicalDescription>
   <language>
-    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
   </language>
-  <name authority="lcnaf" valueURI=" http://id.loc.gov/authorities/names/n80044871">
-    <namePart>Bryan, William Jennings, 1860-1925 </namePart>
-    <role>
-      <roleTerm>Creator</roleTerm>
-    </role>
+  <name authority="lcnaf"
+         valueURI=" http://id.loc.gov/authorities/names/n80044871">
+      <namePart>Bryan, William Jennings, 1860-1925 </namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
   </name>
   <subject>
-    <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
+      <topic>Scopes, John Thomas--Trials, litigation, etc.</topic>
   </subject>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-  <note>The envelope lists no sender, but handwriting appears to match Bryan&apos;s and it was sent from the same hotel as another envelope from Bryan.</note>
+  <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <note>The envelope lists no sender, but handwriting appears to match Bryan's and it was sent from the same hotel as another envelope from Bryan.</note>
   <recordInfo>
-    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
   </recordInfo>
   <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-    </titleInfo>
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
   </relatedItem>
 </mods>

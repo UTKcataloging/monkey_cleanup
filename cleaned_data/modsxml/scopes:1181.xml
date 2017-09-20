@@ -1,52 +1,57 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <identifier type="filename">0012_000416_000106</identifier>
   <titleInfo>
-    <title>LIFE: Is This the Missing Link?&quot;</title>
+      <title>LIFE: Is This the Missing Link?"</title>
   </titleInfo>
-  <abstract>Satirical article describes the discovery of &quot;Homo Weemixensis.&quot; Stamped by Rev. Albert Dale Gantz of New York City.</abstract>
+  <abstract>Satirical article describes the discovery of "Homo Weemixensis." Stamped by Rev. Albert Dale Gantz of New York City.</abstract>
   <originInfo>
-    <dateCreated>unknown</dateCreated>
+      <dateCreated>unknown</dateCreated>
   </originInfo>
   <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Sue K. Hicks Papers</title>
-    </titleInfo>
-    <identifier type="local">MPA.0136</identifier>
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier type="local">MPA.0136</identifier>
   </relatedItem>
   <location>
-    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-    <shelfLocator>Box 5, Folder 4</shelfLocator>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 4</shelfLocator>
   </location>
   <physicalDescription>
-    <extent>1 article (1 page; reverse page has Life&apos;s Question Contest)</extent>
-    <digitalOrigin>reformatted digital</digitalOrigin>
-    <form>periodicals</form>
+      <extent>1 article (1 page; reverse page has Life's Question Contest)</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
   </physicalDescription>
   <language>
-    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
   </language>
   <name>
-    <namePart>unknown</namePart>
-    <role>
-      <roleTerm>Creator</roleTerm>
-    </role>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
   </name>
   <subject>
-    <topic>Evolution (Biology)--Religious aspects--Christianity</topic>
+      <topic>Evolution (Biology)--Religious aspects--Christianity</topic>
   </subject>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+  <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
   <note>This issue of LIFE published in March 1925.</note>
   <recordInfo>
-    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
   </recordInfo>
   <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-    </titleInfo>
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
   </relatedItem>
 </mods>

@@ -1,54 +1,59 @@
-
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <identifier type="filename">0012_000416_000051</identifier>
   <titleInfo>
-    <title>[Public - No. 595 - 68th Congress]</title>
+      <title>[Public - No. 595 - 68th Congress]</title>
   </titleInfo>
-  <abstract>Legislation concerning appropriations for the District of Columbia FY1926, prohibits &quot;disrespect&quot; of the Bible in schools.</abstract>
+  <abstract>Legislation concerning appropriations for the District of Columbia FY1926, prohibits "disrespect" of the Bible in schools.</abstract>
   <originInfo>
-    <dateCreated>[1925]</dateCreated>
-    <place>
-      <placeTerm type="text">Washington, DC</placeTerm>
-    </place>
+      <dateCreated>[1925]</dateCreated>
+      <place>
+         <placeTerm type="text">Washington, DC</placeTerm>
+      </place>
   </originInfo>
   <relatedItem displayLabel="Collection" type="host">
-    <titleInfo>
-      <title>Sue K. Hicks Papers</title>
-    </titleInfo>
-    <identifier type="local">MPA.0136</identifier>
+      <titleInfo>
+         <title>Sue K. Hicks Papers</title>
+      </titleInfo>
+      <identifier type="local">MPA.0136</identifier>
   </relatedItem>
   <location>
-    <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
-    <shelfLocator>Box 5, Folder 3</shelfLocator>
+      <physicalLocation>University of Tennessee, Knoxville.  Special Collections</physicalLocation>
+      <shelfLocator>Box 5, Folder 3</shelfLocator>
   </location>
   <physicalDescription>
-    <extent>1 document (40 pages, 9 in x 5 3/4 in)</extent>
-    <digitalOrigin>reformatted digital</digitalOrigin>
-    <form>legislation</form>
+      <extent>1 document (40 pages, 9 in x 5 3/4 in)</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>legislation</form>
   </physicalDescription>
   <language>
-    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
   </language>
   <name>
-    <namePart>unknown</namePart>
-    <role>
-      <roleTerm>Creator</roleTerm>
-    </role>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm>Creator</roleTerm>
+      </role>
   </name>
   <subject>
-    <topic>Appropriations and expenditures</topic>
+      <topic>Appropriations and expenditures</topic>
   </subject>
-  <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+  <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
   <recordInfo>
-    <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
-    <languageOfCataloging>
-      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </languageOfCataloging>
-    <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
   </recordInfo>
   <relatedItem displayLabel="Project" type="host">
-    <titleInfo>
-      <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
-    </titleInfo>
+      <titleInfo>
+         <title>Of Monkeys and Men: Public and Private Views from the Scopes Trial</title>
+      </titleInfo>
   </relatedItem>
 </mods>

@@ -80,7 +80,8 @@
       </titleInfo>
       <identifier type="local">MS.1091</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
    <recordInfo>
       <recordIdentifier>record_spc_4458</recordIdentifier>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
